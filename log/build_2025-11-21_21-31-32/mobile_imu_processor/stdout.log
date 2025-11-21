@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/PKG-INFO
+writing dependency_links to ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/dependency_links.txt
+writing entry points to ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/entry_points.txt
+writing requirements to ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/requires.txt
+writing top-level names to ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/top_level.txt
+reading manifest file '../../build/mobile_imu_processor/mobile_imu_processor.egg-info/SOURCES.txt'
+writing manifest file '../../build/mobile_imu_processor/mobile_imu_processor.egg-info/SOURCES.txt'
+running build
+running build_py
+copying mobile_imu_processor/imu_receiver_node.py -> /home/faraz/mobile_imu/build/mobile_imu_processor/build/lib/mobile_imu_processor
+copying mobile_imu_processor/imu_processor_node.py -> /home/faraz/mobile_imu/build/mobile_imu_processor/build/lib/mobile_imu_processor
+running install
+running install_lib
+copying /home/faraz/mobile_imu/build/mobile_imu_processor/build/lib/mobile_imu_processor/imu_receiver_node.py -> /home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor
+copying /home/faraz/mobile_imu/build/mobile_imu_processor/build/lib/mobile_imu_processor/imu_processor_node.py -> /home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor
+byte-compiling /home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor/imu_receiver_node.py to imu_receiver_node.cpython-310.pyc
+byte-compiling /home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor/imu_processor_node.py to imu_processor_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/mobile_imu_processor/mobile_imu_processor.egg-info to /home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor-0.0.0-py3.10.egg-info
+running install_scripts
+Installing imu_processor_node script to /home/faraz/mobile_imu/install/mobile_imu_processor/lib/mobile_imu_processor
+Installing imu_receiver_node script to /home/faraz/mobile_imu/install/mobile_imu_processor/lib/mobile_imu_processor
+writing list of installed files to '/home/faraz/mobile_imu/build/mobile_imu_processor/install.log'

@@ -1,0 +1,28 @@
+[0.583s] Invoking command in '/home/faraz/mobile_imu/src/mobile_imu_processor': PYTHONPATH=/home/faraz/mobile_imu/build/mobile_imu_processor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mobile_imu_processor build --build-base /home/faraz/mobile_imu/build/mobile_imu_processor/build install --record /home/faraz/mobile_imu/build/mobile_imu_processor/install.log --single-version-externally-managed install_data
+[0.814s] running egg_info
+[0.815s] writing ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/PKG-INFO
+[0.815s] writing dependency_links to ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/dependency_links.txt
+[0.815s] writing entry points to ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/entry_points.txt
+[0.815s] writing requirements to ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/requires.txt
+[0.815s] writing top-level names to ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/top_level.txt
+[0.817s] reading manifest file '../../build/mobile_imu_processor/mobile_imu_processor.egg-info/SOURCES.txt'
+[0.818s] writing manifest file '../../build/mobile_imu_processor/mobile_imu_processor.egg-info/SOURCES.txt'
+[0.819s] running build
+[0.819s] running build_py
+[0.819s] copying mobile_imu_processor/imu_receiver_node.py -> /home/faraz/mobile_imu/build/mobile_imu_processor/build/lib/mobile_imu_processor
+[0.819s] copying mobile_imu_processor/imu_processor_node.py -> /home/faraz/mobile_imu/build/mobile_imu_processor/build/lib/mobile_imu_processor
+[0.819s] running install
+[0.819s] running install_lib
+[0.820s] copying /home/faraz/mobile_imu/build/mobile_imu_processor/build/lib/mobile_imu_processor/imu_receiver_node.py -> /home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor
+[0.820s] copying /home/faraz/mobile_imu/build/mobile_imu_processor/build/lib/mobile_imu_processor/imu_processor_node.py -> /home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor
+[0.821s] byte-compiling /home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor/imu_receiver_node.py to imu_receiver_node.cpython-310.pyc
+[0.822s] byte-compiling /home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor/imu_processor_node.py to imu_processor_node.cpython-310.pyc
+[0.824s] running install_data
+[0.824s] running install_egg_info
+[0.825s] removing '/home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor-0.0.0-py3.10.egg-info' (and everything under it)
+[0.825s] Copying ../../build/mobile_imu_processor/mobile_imu_processor.egg-info to /home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor-0.0.0-py3.10.egg-info
+[0.826s] running install_scripts
+[0.846s] Installing imu_processor_node script to /home/faraz/mobile_imu/install/mobile_imu_processor/lib/mobile_imu_processor
+[0.847s] Installing imu_receiver_node script to /home/faraz/mobile_imu/install/mobile_imu_processor/lib/mobile_imu_processor
+[0.847s] writing list of installed files to '/home/faraz/mobile_imu/build/mobile_imu_processor/install.log'
+[0.869s] Invoked command in '/home/faraz/mobile_imu/src/mobile_imu_processor' returned '0': PYTHONPATH=/home/faraz/mobile_imu/build/mobile_imu_processor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mobile_imu_processor build --build-base /home/faraz/mobile_imu/build/mobile_imu_processor/build install --record /home/faraz/mobile_imu/build/mobile_imu_processor/install.log --single-version-externally-managed install_data
