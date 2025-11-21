@@ -1,0 +1,4 @@
+[console_scripts]
+imu_processor_node = mobile_imu_processor.imu_processor_node:main
+imu_receiver_node = mobile_imu_processor.imu_receiver_node:main
+

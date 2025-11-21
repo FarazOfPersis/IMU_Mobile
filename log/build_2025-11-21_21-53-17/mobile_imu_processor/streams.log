@@ -1,0 +1,25 @@
+[0.586s] Invoking command in '/home/faraz/mobile_imu/src/mobile_imu_processor': PYTHONPATH=/home/faraz/mobile_imu/build/mobile_imu_processor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mobile_imu_processor build --build-base /home/faraz/mobile_imu/build/mobile_imu_processor/build install --record /home/faraz/mobile_imu/build/mobile_imu_processor/install.log --single-version-externally-managed install_data
+[0.820s] running egg_info
+[0.820s] writing ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/PKG-INFO
+[0.821s] writing dependency_links to ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/dependency_links.txt
+[0.821s] writing entry points to ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/entry_points.txt
+[0.821s] writing requirements to ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/requires.txt
+[0.821s] writing top-level names to ../../build/mobile_imu_processor/mobile_imu_processor.egg-info/top_level.txt
+[0.823s] reading manifest file '../../build/mobile_imu_processor/mobile_imu_processor.egg-info/SOURCES.txt'
+[0.825s] writing manifest file '../../build/mobile_imu_processor/mobile_imu_processor.egg-info/SOURCES.txt'
+[0.825s] running build
+[0.825s] running build_py
+[0.825s] copying mobile_imu_processor/imu_processor_node.py -> /home/faraz/mobile_imu/build/mobile_imu_processor/build/lib/mobile_imu_processor
+[0.826s] running install
+[0.826s] running install_lib
+[0.827s] copying /home/faraz/mobile_imu/build/mobile_imu_processor/build/lib/mobile_imu_processor/imu_processor_node.py -> /home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor
+[0.829s] byte-compiling /home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor/imu_processor_node.py to imu_processor_node.cpython-310.pyc
+[0.831s] running install_data
+[0.831s] running install_egg_info
+[0.835s] removing '/home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor-0.0.0-py3.10.egg-info' (and everything under it)
+[0.835s] Copying ../../build/mobile_imu_processor/mobile_imu_processor.egg-info to /home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages/mobile_imu_processor-0.0.0-py3.10.egg-info
+[0.836s] running install_scripts
+[0.856s] Installing imu_processor_node script to /home/faraz/mobile_imu/install/mobile_imu_processor/lib/mobile_imu_processor
+[0.856s] Installing imu_receiver_node script to /home/faraz/mobile_imu/install/mobile_imu_processor/lib/mobile_imu_processor
+[0.857s] writing list of installed files to '/home/faraz/mobile_imu/build/mobile_imu_processor/install.log'
+[0.880s] Invoked command in '/home/faraz/mobile_imu/src/mobile_imu_processor' returned '0': PYTHONPATH=/home/faraz/mobile_imu/build/mobile_imu_processor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/faraz/mobile_imu/install/mobile_imu_processor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mobile_imu_processor build --build-base /home/faraz/mobile_imu/build/mobile_imu_processor/build install --record /home/faraz/mobile_imu/build/mobile_imu_processor/install.log --single-version-externally-managed install_data
